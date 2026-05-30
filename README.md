@@ -13,6 +13,7 @@ Goldbach's conjecture is here reformulated through the P-E Monfette Law, using t
 ---
 
 **Context:** Limits of the classical additive approach to Goldbach's conjecture. **Problem:** How to separate the combinatorial nature of prime numbers from the structural constraint of even integers. **Method:** Introduction of the phase circle $\mathbb{R}_{30}$ based on the multiplicative group $(\mathbb{Z}/30\mathbb{Z})^\times$. **Key results:** Reduction of the infinite problem to a finite system of 36 geometric channels; proof of the coverage invariant; asymptotic behavior of the critical pure-XSG cases; and a new duality theorem reducing the problem to half the even integers.
+
 ## Résumé
 
 La conjecture de Goldbach est ici reformulée à travers la Loi P-E Monfette*, utilisant le groupe multiplicatif $(\mathbb{Z}/30\mathbb{Z})^\times$ pour projeter les nombres premiers sur un espace de phase circulaire et tridimensionnel. Cette approche réduit la complexité combinatoire du problème à une structure finie de 36 canaux géométriques. En démontrant que la probabilité d'extinction stochastique des canaux décroît exponentiellement et que les fluctuations de densité sont bornées par l'exposant universel $A \approx 4{,}77$, ce travail établit que l'existence des paires de Goldbach est garantie par la structure même de l'espace modulaire, conformément aux prédictions de l'Hypothèse de Riemann Généralisée.
