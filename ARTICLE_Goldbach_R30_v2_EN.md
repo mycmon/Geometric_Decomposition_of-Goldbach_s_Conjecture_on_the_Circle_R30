@@ -53,7 +53,7 @@ of order $\phi(30) = 8$. Every prime $p \ge 7$ belongs to exactly one of the 8 c
 **Definition 1.2 (SG / XSG partition).** The space $(\mathbb{Z}/30\mathbb{Z})^\times$ is partitioned into two subsets:
 
 - The **harmonic Sophie Germain group**: $\mathrm{SG} = {11, 23, 29}$, whose inter-residue spacings are all multiples of 6;
-- The **extended non-Sophie-Germain group**: $\mathrm{XSG} = {1, 7, 13, 17, 19}$, with irregular angular distribution.
+- The **No-Sophie-Germain group**: $\mathrm{XSG} = {1, 7, 13, 17, 19}$, with irregular angular distribution.
 
 By Dirichlet's theorem, the XSG group asymptotically carries $\frac{5}{8} = 62.5%$ of the total prime flux, and the SG group carries $\frac{3}{8} = 37.5%$.
 
@@ -127,7 +127,7 @@ $$\text{SG} = \{11, 23, 29\}$$
 
 - **Angular property:** The elements of SG are characterized by regular spacings on the circle. The inter-residue distances are all multiples of 6 ($\Delta r = 6, 12, 18$). In terms of wave physics, the SG group forms a **harmonic sub-circle**. Their principal angles on the circle (notably linked to the invariants $132^\circ$, $276^\circ$, and $348^\circ$) act as stable and resonant frequencies.
 
-#### 2. The Extended non-Sophie-Germain Group (XSG)
+#### 2. The No-Sophie-Germain Group (XSG)
 
 The XSG group constitutes the complement of SG in the prime space mod 30:
 
@@ -295,7 +295,7 @@ According to the geometric activation matrix (Section 3.2), even integers satisf
 
 1. **Minimum connectivity:** They activate only 3 channels out of the 36 available in the phase space. The open tunnels are strictly limited to the residue pairs $(1,1)$, $(13,19)$, and $(19,13)$.
 2. **Harmonic exclusion:** These three tunnels belong exclusively to the XSG $\times$ XSG interaction block. The harmonic Sophie Germain subgroup (SG), with its regular spacings that are multiples of 6 and its principal angles ($132^\circ, 276^\circ, 348^\circ$), is entirely excluded from the resolution process.
-3. **Angular turbulence:** The anchor points of the Extended Sophie Germain group ($\text{XSG} = \{1, 7, 13, 17, 19\}$) exhibit an asymmetric distribution on the circle. This geometric irregularity generates greater fluctuation in the phase signal, which manifests as very high statistical variance in the local count of solutions.
+3. **Angular turbulence:** The anchor points of the No Sophie Germain group ($\text{XSG} = \{1, 7, 13, 17, 19\}$) exhibit an asymmetric distribution on the circle. This geometric irregularity generates greater fluctuation in the phase signal, which manifests as very high statistical variance in the local count of solutions.
 
 It is this stripped-down and asymmetric configuration that explains why, in classical graphical representations (the "Goldbach comet"), the trajectory of numbers of the form $30k + 2$ systematically constitutes the absolute lower boundary of the point cloud.
 
@@ -621,7 +621,7 @@ The error within the 36 channels is nothing other than the vector sum of infinit
 
 ### Figure 9
 
-![](monfette_wheel.png)
+![](fig_wheel_SG_XSG.png)
 
 
 

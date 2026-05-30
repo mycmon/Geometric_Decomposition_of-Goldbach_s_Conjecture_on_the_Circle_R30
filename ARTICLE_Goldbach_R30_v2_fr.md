@@ -291,7 +291,7 @@ Selon la matrice d'activation géométrique (Section 3.2), les entiers pairs con
 
 1. **Le minimum de connectivité :** Ils n'activent que 3 canaux sur les 36 disponibles dans l'espace de phase. Les tunnels ouverts sont strictement limités aux paires de résidus $(1,1)$, $(13,19)$ et $(19,13)$.
 2. **L'exclusion harmonique :** Ces trois tunnels appartiennent exclusivement au bloc d'interaction $\text{XSG} \times \text{XSG}$. Le sous-groupe harmonique Sophie Germain (SG), avec ses écarts réguliers multiples de 6 et ses angles prioritaires ($132^\circ, 276^\circ, 348^\circ$), est entièrement exclu du processus de résolution.
-3. **La turbulence angulaire :** Les points d'ancrage du groupe Extended Sophie Germain ($\text{XSG} = \{1, 7, 13, 17, 19\}$) présentent une distribution asymétrique sur le cercle. Cette irrégularité géométrique engendre une plus grande fluctuation du signal de phase, ce qui se traduit par une variance statistique très élevée du nombre de solutions locales.
+3. **La turbulence angulaire :** Les points d'ancrage du groupe Non Sophie Germain ($\text{XSG} = \{1, 7, 13, 17, 19\}$) présentent une distribution asymétrique sur le cercle. Cette irrégularité géométrique engendre une plus grande fluctuation du signal de phase, ce qui se traduit par une variance statistique très élevée du nombre de solutions locales.
 
 C'est cette configuration épurée et asymétrique qui explique pourquoi, dans les représentations graphiques classiques (la "comète de Goldbach"), la trajectoire des nombres de la forme $30k + 2$ constitue systématiquement la frontière inférieure absolue du nuage de points.
 
@@ -719,7 +719,7 @@ L'erreur au sein des 36 canaux n'est rien d'autre que la somme vectorielle d'une
 
 ### Figure 9
 
-![](monfette_wheel.png)
+![](fig_wheel_SG_XSG.png)
 
 ---
 
